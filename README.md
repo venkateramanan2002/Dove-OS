@@ -2,7 +2,7 @@
 
 light weight debian distro  
 
-#installed with 
+# Pre Installed with 
 
 BurpSuite 
 metasploit 
