@@ -1,4 +1,4 @@
-#Dove OS (Own Ethical hacking OS)
+# Dove OS (Own Ethical hacking OS)
 
 light weight debian distro  
 
@@ -12,5 +12,5 @@ nmap
 zenmap 
 
 
-#User password
+# User password
 *asdf@1234*
